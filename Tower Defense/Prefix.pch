@@ -1,0 +1,39 @@
+//
+// Prefix header for all source files of the 'Test' target in the 'Test' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#endif
+
+#define OPPOSITE_TEAM(__X__) (__X__ == 1 ? 2 : 1)
+
+#define MOVE 101
+#define ANIMATION_IDLE 102
+#define ANIMATION_MOVE 103
+#define ANIMATION_ATTACK 104
+#define ANIMATION_EFFECT 105
+#define ANIMATION_SPELL 107
+#define ANIMATION_DIE 106
+#define POISON 108
+
+#define TOP 9999
+
+#define TEXT_QUIT 10001
+#define TEXT_WORLDMAP 10002
+#define TEXT_NEXT 10003
+#define TEXT_REPLAY 10004
+#define TEXT_RESUME 10005
+#define CMD_PAUSE 10006
+#define TEXT_OPTIONS 10007
+#define MENU_BACKGROUND 10007
+
+int Global_Monster_Counter;
+

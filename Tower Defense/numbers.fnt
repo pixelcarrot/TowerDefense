@@ -1,0 +1,16 @@
+info face="Apple-Chancery" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=51 base=26 scaleW=128 scaleH=64 pages=1 packed=0
+page id=0 file="numbers.png"
+chars count=11
+char id=32   x=0     y=0     width=0     height=0     xoffset=0     yoffset=36    xadvance=8     page=0  chnl=0 
+char id=57   x=0     y=0     width=19     height=23     xoffset=0     yoffset=21    xadvance=18     page=0  chnl=0 
+char id=56   x=19     y=0     width=16     height=23     xoffset=2     yoffset=15    xadvance=16     page=0  chnl=0 
+char id=54   x=35     y=0     width=21     height=23     xoffset=2     yoffset=15    xadvance=18     page=0  chnl=0 
+char id=52   x=56     y=0     width=21     height=23     xoffset=0     yoffset=19    xadvance=19     page=0  chnl=0 
+char id=51   x=77     y=0     width=16     height=23     xoffset=0     yoffset=19    xadvance=14     page=0  chnl=0 
+char id=55   x=93     y=0     width=19     height=22     xoffset=2     yoffset=20    xadvance=16     page=0  chnl=0 
+char id=53   x=0     y=23     width=18     height=22     xoffset=0     yoffset=20    xadvance=15     page=0  chnl=0 
+char id=48   x=18     y=23     width=17     height=19     xoffset=2     yoffset=19    xadvance=16     page=0  chnl=0 
+char id=50   x=35     y=23     width=17     height=19     xoffset=1     yoffset=19    xadvance=17     page=0  chnl=0 
+char id=49   x=52     y=23     width=13     height=18     xoffset=1     yoffset=19    xadvance=13     page=0  chnl=0 
+char id=46   x=65     y=23     width=7     height=6     xoffset=1     yoffset=32    xadvance=6     page=0  chnl=0 
